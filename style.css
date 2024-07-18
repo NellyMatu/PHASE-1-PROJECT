@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body {
+  background-image: url(https://i.pinimg.com/236x/ab/fd/ea/abfdea1007f4e7a051957ac4f00c4b45.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 700px;
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #6225b3;
+      color: white;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  .popular-products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 1rem;
+    flex-direction: column;
+    margin-left: 700px;
+  }
+  
+  .product-card {
+    background-color: cornsilk;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 1rem;
+    padding: 1rem;
+    width: 250px;
+    text-align: center;
+  }
+  
+  .product-card_img img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .product-card_description {
+    margin-top: 1rem;
+  }
+  
+  .product-card_btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 1rem;
+  }
+  
+  .product-card_btn:hover {
+    background-color: #0056b3;
+  }
+  

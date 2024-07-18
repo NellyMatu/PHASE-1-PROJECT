@@ -1,0 +1,51 @@
+{
+  "clothes": [
+    {
+      "id": 1,
+      "name": "Sweat-Shirt",
+      "price": 28.00,
+      "description": "A comfortable and stylish sweat-shirt.",
+      "image": "https://i.pinimg.com/564x/d9/47/36/d9473611f7d78b65b05684bd9daa869e.jpg",
+      "stock": 50,
+      "sold": 10
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "price": 40.00,
+      "description": "Durable and trendy jeans.",
+      "image": "https://i.pinimg.com/236x/b0/0f/eb/b00febb26f2520b1c55451e60e5b469e.jpg",
+      "stock": 30,
+      "sold": 5
+    },
+    {
+      "id": 3,
+      "name": "Hoodie",
+      "price": 70.00,
+      "description": "A warm and stylish hoodie.",
+      "image": "https://i.pinimg.com/564x/b8/52/62/b8526203b43502ba934effe1a9b235d6.jpg",
+      "stock": 20,
+      "sold": 3
+    },
+    {
+      "id": 4,
+      "name": "Sneakers",
+      "price": 60.00,
+      "description": "A pair of fashionable sneakers.",
+      "image": "https://i.pinimg.com/236x/19/35/94/193594262a683c665567c8026f1b635e.jpg",
+      "stock": 22,
+      "sold": 5
+    },
+    {
+      "id": 5,
+      "name": "Dress",
+      "price": 60.00,
+      "description": "A beatiful dress for fancy occasions",
+      "image": "https://i.pinimg.com/originals/4f/45/0c/4f450c01d247185c8c82b45f0e4d5f60.jpg",
+      "stock": 9,
+      "sold": 2
+    }
+    
+  ]
+}
+
