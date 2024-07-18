@@ -1,4 +1,4 @@
-const api_url = "http://localhost:3000/clothes";
+const api_url = "https://json-server-vercel-inwf.vercel.app/clothes";
 const popularProducts = document.getElementById("popular-products");
 
 window.onload = () => {
