@@ -126,6 +126,9 @@ The project structure is as follows:
 
 Open the folder location on the terminal and use the following command to run the app:
 
+### LIVE LINK
+[live lik to my website](https://phase-1-project-lovat.vercel.app/)
+
 ### HOW TO RUN ALL CODES
 clone the repository run using live server
 
