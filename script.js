@@ -1,4 +1,4 @@
-const api_url = "https://json-server-vercel-inwf.vercel.app/clothes";
+const api_url = "https://phase-1-backend-rho.vercel.app/clothes";
 const popularProducts = document.getElementById("popular-products");
 
 window.onload = () => {
@@ -54,6 +54,6 @@ window.onload = () => {
       });
     })
     .catch(error => {
-      console.error('Error fetching the products:', error);
+      console.log('Error fetching the products:', error);
     });
 };
